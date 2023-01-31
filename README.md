@@ -19,7 +19,14 @@ We present our study on the use of neural networks for detecting fraud in the su
 ## Academic Paper
 
 - <img width="624" alt="Screenshot 2023-01-31 at 10 02 18 AM" src="https://user-images.githubusercontent.com/69835617/215797337-0676ef97-460c-48a6-b142-f116ec88c507.png">
-- 
--
--
+- <img width="624" alt="Screenshot 2023-01-31 at 10 03 35 AM" src="https://user-images.githubusercontent.com/69835617/215797492-320c19ef-407c-4230-b41c-43ab34289f22.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 03 47 AM" src="https://user-images.githubusercontent.com/69835617/215797709-a8c07313-f335-4fd5-8155-4eabcf784b77.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 04 03 AM" src="https://user-images.githubusercontent.com/69835617/215797750-96b7603c-67b4-48af-8572-05cce50661ec.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 04 21 AM" src="https://user-images.githubusercontent.com/69835617/215797793-d9bffbca-7322-4afe-bd29-a994dec18a76.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 04 30 AM" src="https://user-images.githubusercontent.com/69835617/215797824-6a67ed3d-c43a-4e0f-837c-c1b5c99a9a84.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 04 39 AM" src="https://user-images.githubusercontent.com/69835617/215797853-1212ff01-2ac7-4825-9686-74ef94e46117.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 04 54 AM" src="https://user-images.githubusercontent.com/69835617/215797873-9781725c-985f-448b-bca2-8a9e6610f3ea.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 05 01 AM" src="https://user-images.githubusercontent.com/69835617/215797896-003dbaeb-74ab-434d-8f07-927283bf27f8.png">
+- <img width="624" alt="Screenshot 2023-01-31 at 10 05 06 AM" src="https://user-images.githubusercontent.com/69835617/215797919-a8f414de-63e8-4ec8-a66c-272f874c0854.png">
+
 
