@@ -29,4 +29,4 @@ We present our study on the use of neural networks for detecting fraud in the su
 - <img width="624" alt="Screenshot 2023-01-31 at 10 05 01 AM" src="https://user-images.githubusercontent.com/69835617/215797896-003dbaeb-74ab-434d-8f07-927283bf27f8.png">
 - <img width="624" alt="Screenshot 2023-01-31 at 10 05 06 AM" src="https://user-images.githubusercontent.com/69835617/215797919-a8f414de-63e8-4ec8-a66c-272f874c0854.png">
 
-
+Thanks for visiting, @subhanjan :)  
